@@ -13,7 +13,7 @@ function Contact() {
                     LinkedIn: <a href="https://www.linkedin.com/in/tejas-kolhe-a8304b250" target="_blank" rel="noopener noreferrer">My LinkedIn Profile</a>
                 </p>
                 <p>
-                    Contact: 956115xxxx
+                    Contact: 9561151070
                 </p>
             </section>
         </div>
