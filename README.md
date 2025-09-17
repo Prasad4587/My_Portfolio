@@ -1,6 +1,6 @@
 
 Personal Portfolio Website : 
-(tejaskolheportfolio.netlify.app)
+(https://tejaskolheportfolio.netlify.app)
 
 Built a responsive personal portfolio using React + Vite, deployed on Netlify.
 
